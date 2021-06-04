@@ -1,0 +1,2 @@
+# practicaPHP
+repaso general PHP 
